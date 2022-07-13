@@ -3,7 +3,7 @@
 <?php
 require_once 'config.php';
 
-use import\types\mobileApp AS app;
+use import\types\mobileApp AS app; 
 use import\currency AS currency;
 use import\exceptions AS ex;
 use import\helpers AS help;
